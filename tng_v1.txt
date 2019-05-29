@@ -1,0 +1,5 @@
+This branch is used to generate custom code for arducopter - heli . 
+
+Required mission touch and go
+
+Land without diarming then taking off again
